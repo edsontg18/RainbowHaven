@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078233436918",
+    "project_id": "sion-do1nxv",
+    "storage_bucket": "sion-do1nxv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078233436918:android:1733597a1c42b358e152d7",
+        "android_client_info": {
+          "package_name": "com.mycompany.sion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3hL5NoMR-Y0mSBMiwuvyQ5UdL8Xbu40I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
